@@ -1,7 +1,7 @@
 """
 Created on Sun Oct  31 15:01:50 2020
 @author: Viswanathan A
-@Descirpion : Database Manager Class with CLass Methods
+@Descirpion : Database Manager Class with Class Methods. This Code lets you connect to the Game Database.
 
 """
 
